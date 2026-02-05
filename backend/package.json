@@ -1,0 +1,23 @@
+{
+  "name": "jobapex-backend",
+  "version": "1.0.0",
+  "description": "AI-Powered Job Tracker Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["job", "tracker", "ai", "langchain"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "@fastify/cors": "^9.0.1",
+    "@fastify/multipart": "^8.0.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.0",
+    "uuid": "^9.0.1",
+    "pdf-parse": "^1.1.1",
+    "mime-types": "^2.1.35"
+  }
+}
