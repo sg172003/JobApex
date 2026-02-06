@@ -4,7 +4,7 @@ An intelligent job tracking platform that fetches jobs from external sources, ma
 
 ## Live Demo
 
-[https://jobapex-demo.vercel.app](https://jobapex-demo.vercel.app) *(Update with actual deployment URL)*
+https://job-apex-p5a60p17c-sg172003s-projects.vercel.app/
 
 ## Test Credentials
 
@@ -49,7 +49,7 @@ An intelligent job tracking platform that fetches jobs from external sources, ma
 ## Tech Stack
 
 ### Frontend
-- React 18 with TypeScript
+- React 19 with TypeScript
 - Vite for build tooling
 - Tailwind CSS for styling
 - shadcn/ui components
